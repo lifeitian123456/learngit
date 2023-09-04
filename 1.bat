@@ -1,1 +1,2 @@
-git checkout -- 4.txt
+git add 6.txt
+git commit -m "1"
